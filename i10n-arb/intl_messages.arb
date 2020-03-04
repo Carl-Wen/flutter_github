@@ -1,0 +1,115 @@
+{
+  "@@last_modified": "2020-03-04T20:06:59.102602",
+  "title": "Flutter APP",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language of application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme of application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "auto": "Auto",
+  "@auto": {
+    "description": "Follow system",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Title of home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "yes action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutTip": "Are you sure to logout?",
+  "@logoutTip": {
+    "description": "Logout tip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "User Name",
+  "@userName": {
+    "description": "User account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrEmail": "User Name Or Email",
+  "@userNameOrEmail": {
+    "description": "User name or email for account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameRequired": "User name can not be empty!",
+  "@userNameRequired": {
+    "description": "userNameRequired",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrPasswordWrong": "User name or password is wrong!",
+  "@userNameOrPasswordWrong": {
+    "description": "User name or password is wrong",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDescription": "No Description",
+  "@noDescription": {
+    "description": "No Description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordRequired": "Password Required",
+  "@passwordRequired": {
+    "description": "Password Required",
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingEmailsMessage": "{howMany,plural, =0{There are no emails left}=1{There is {howMany} email left}other{There are {howMany} emails left}}",
+  "@remainingEmailsMessage": {
+    "description": "How many emails remain after archiving.",
+    "type": "text",
+    "placeholders": {
+      "howMany": {
+        "example": 42
+      }
+    }
+  }
+}

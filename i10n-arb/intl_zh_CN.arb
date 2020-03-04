@@ -1,0 +1,116 @@
+{
+    "@@last_modified": "2018-12-10T15:46:20.897228",
+    "@@locale": "zh_CN",
+    "title": "Flutter应用",
+    "@title": {
+        "description": "Title for the Demo application",
+        "type": "text",
+        "placeholders": {}
+    },
+    "language": "语言",
+      "@language": {
+        "description": "Language of application",
+        "type": "text",
+        "placeholders": {}
+      },
+      "theme": "主题",
+      "@theme": {
+        "description": "Theme of application",
+        "type": "text",
+        "placeholders": {}
+      },
+      "auto": "跟随系统",
+      "@auto": {
+        "description": "Follow system",
+        "type": "text",
+        "placeholders": {}
+      },
+      "login": "登录",
+      "@login": {
+        "description": "Login action",
+        "type": "text",
+        "placeholders": {}
+      },
+      "logout": "注销",
+      "@logout": {
+        "description": "Logout action",
+        "type": "text",
+        "placeholders": {}
+      },
+      "home": "主页",
+      "@home": {
+        "description": "Title of home page",
+        "type": "text",
+        "placeholders": {}
+      },
+      "yes": "是",
+      "@yes": {
+        "description": "yes action",
+        "type": "text",
+        "placeholders": {}
+      },
+      "cancel": "取消",
+      "@cancel": {
+        "description": "Cancel action",
+        "type": "text",
+        "placeholders": {}
+      },
+      "logoutTip": "确定要注销吗?",
+      "@logoutTip": {
+        "description": "Logout tip",
+        "type": "text",
+        "placeholders": {}
+      },
+      "userName": "用户账号",
+      "@userName": {
+        "description": "User account",
+        "type": "text",
+        "placeholders": {}
+      },
+      "userNameOrEmail": "用户名或者邮箱",
+      "@userNameOrEmail": {
+        "description": "User name or email for account",
+        "type": "text",
+        "placeholders": {}
+      },
+      "userNameRequired": "用户名不能为空!",
+      "@userNameRequired": {
+        "description": "userNameRequired",
+        "type": "text",
+        "placeholders": {}
+      },
+      "password": "密码",
+      "@password": {
+        "description": "password",
+        "type": "text",
+        "placeholders": {}
+      },
+      "userNameOrPasswordWrong": "用户名或密码错误!",
+      "@userNameOrPasswordWrong": {
+        "description": "User name or password is wrong",
+        "type": "text",
+        "placeholders": {}
+      },
+      "noDescription": "没有描述",
+      "@noDescription": {
+        "description": "No Description",
+        "type": "text",
+        "placeholders": {}
+      },
+      "passwordRequired": "密码不能为空",
+      "@passwordRequired": {
+        "description": "Password Required",
+        "type": "text",
+        "placeholders": {}
+      },
+    "remainingEmailsMessage": "{howMany,plural, =0{没有未读邮件}=1{有{howMany}封未读邮件}other{有{howMany}封未读邮件}}",
+    "@remainingEmailsMessage": {
+        "description": "How many emails remain after archiving.",
+        "type": "text",
+        "placeholders": {
+            "howMany": {
+                "example": 42
+            }
+        }
+    }
+}
