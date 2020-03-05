@@ -6,7 +6,6 @@ import 'package:flutter_github/models/user.dart';
 import 'package:flutter_github/service/api_service.dart';
 import 'package:flutter_github/states/global.dart';
 import 'package:flutter_github/states/states.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 import 'package:provider/provider.dart';
 
 class LoginRoute extends StatefulWidget {
